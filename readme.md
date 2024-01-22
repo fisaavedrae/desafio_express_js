@@ -85,7 +85,7 @@ requerimientos solicitados y sube el .zip en el LMS.</li>
 <li>El desafío se debe desarrollar de manera Grupal.</li>
 <li>Para la realización del desafío necesitarás apoyarte del archivo Apoyo  - Mi Repertorio.</li>
 </li>
-</ol>
+</ol></ol>
 
 ## Descripción
 La escuela de música “E-Sueño” está motivando a sus estudiantes de canto a presentarse
@@ -134,47 +134,18 @@ CRUD de datos alojados en un archivo JSON local (3 Puntos)</li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Uso
 
 Para ejecutar el proyecto de debe usar nodemon y cors
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
 
 
 <!-- CONTACT -->
 ## Contacto
 
-Felipe Saavedra - [@twitter_handle](https://twitter.com/fisaavedrae) - fisaavedrae@gmail.com
+Felipe Saavedra - [@fisaavedrae](https://twitter.com/fisaavedrae) - fisaavedrae@gmail.com
 
 Project Link: [https://github.com/fisaavedrae/desafio_express_js](https://github.com/fisaavedrae/desafio_express_js)
 
@@ -200,9 +171,9 @@ Project Link: [https://github.com/fisaavedrae/desafio_express_js](https://github
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fisaavedrae
 [product-screenshot]: https://github.com/fisaavedrae/desafio_express_js/blob/main/assets/images/screenshot.png
-[Node.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Node.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en
-[Express.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Express.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=expressjs&logoColor=61DAFB
 [Express-url]: https://expressjs.com/
-[Json]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Json]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=json&logoColor=4FC08D
 [Json-url]: https://www.json.org/json-es.html
