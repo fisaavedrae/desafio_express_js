@@ -171,9 +171,9 @@ Project Link: [https://github.com/fisaavedrae/desafio_express_js](https://github
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fisaavedrae
 [product-screenshot]: https://github.com/fisaavedrae/desafio_express_js/blob/main/assets/images/screenshot.png
-[Node.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en
-[Express.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=expressjs&logoColor=61DAFB
+[Express.js]: https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
-[Json]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=json&logoColor=4FC08D
+[Json]: https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white
 [Json-url]: https://www.json.org/json-es.html
