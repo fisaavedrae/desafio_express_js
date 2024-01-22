@@ -137,7 +137,7 @@ CRUD de datos alojados en un archivo JSON local (3 Puntos)</li>
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Para ejecutar el proyecto de debe usar nodemon y cors
+Para ejecutar el proyecto se debe usar nodemon y cors
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
