@@ -14,6 +14,11 @@ router.post('/canciones', (req, res) => {
 
 });
 
+// Devuelve un html
+router.get('/', (req, res) => {
+    res.sendFile(__dirname + "/index.html")
+});
+
 // Devuelve un JSON con las canciones registradas en el repertorio
 router.get('/canciones', (req, res) => {
     canciones = JSON.parse(fs.readFileSync("canciones.json"))
